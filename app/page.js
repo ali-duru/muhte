@@ -2,7 +2,7 @@ import Image from 'next/image'
 
 export default function Home() {
 	return (
-		<main className="flex min-h-screen flex-col items-center justify-center p-24">
+		<main className="flex min-h-screen flex-col items-center justify-center p-24 bg-[#202020]">
 			<h1 className="text-3xl font-bold underline mb-6">
 				Buraya ana maddelerinizi yazın.
 			</h1>
